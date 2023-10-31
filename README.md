@@ -1,5 +1,5 @@
 # Computer-Graphics-Laboratory-Assignment-1 
-Welcome to the 2D Dodge Game repository! This is a simple but engaging 2D game written in C++ using the GLUT library.
+Welcome to the 2D Dodge Game repository! This 2D game written in C++ using the GLUT library.
 
 
 
