@@ -1,6 +1,9 @@
 # Computer-Graphics-Laboratory-Assignment-1 
 Welcome to the 2D Dodge Game repository! This is a simple but engaging 2D game written in C++ using the GLUT library.
 
+
+
+## To Run This Project
 * Install CodeBlocks Application. (**Download Code::Blocks**) - http://www.sci.brooklyn.cuny.edu/~goetz/codeblocks/
 * Download the GLUT bin file.(**Download file**) -https://user.xmission.com/~nate/glut.html
 *Copy the glut.h file and paste it into the directory - "C:\ProgramFiles(x86)\CodeBlocks\MinGW\include\GL"
